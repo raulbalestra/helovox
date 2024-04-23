@@ -1,4 +1,4 @@
-# helovox
+# Helovox
 
 ### Read-Me for Helovox Translator Script
 
